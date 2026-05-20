@@ -7,7 +7,7 @@ from app.models.base import Base
 
 
 class OTP(Base):
-    __tablename__ = "otp"
+    __tablename__ = "otps"
 
     id: Mapped[int] = mapped_column(primary_key=True)
 
@@ -21,7 +21,7 @@ class OTP(Base):
     )
 
     expires_at: Mapped[datetime] = mapped_column(
-        DateTime,
+        DateTime(timezone=True),
     )
 
     created_at: Mapped[datetime] = mapped_column(
