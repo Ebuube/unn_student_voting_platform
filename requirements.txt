@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg[binary]
+pydantic==2.13
+pydantic-settings==2.14
+pydantic_core==2.46
+pyjwt
