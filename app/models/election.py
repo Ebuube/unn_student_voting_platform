@@ -51,10 +51,3 @@ class Election(Base):
         DateTime(timezone=True),
         default=lambda: datetime.now(timezone.utc),
     )
-
-    # Relatptionships
-    registry_uploads = relationship(
-        "RegistryUpload",
-        back_populates="election",
-    )
-    voters = relationship("ElectionVoterRegistry", back_populates="election")
