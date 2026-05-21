@@ -1,6 +1,11 @@
 reg_number,full_name,email,phone_number,department_code,level,year_of_graduation
-2021/243067,John Doe,john.doe@unn.edu.ng,08012345678,CSE,300,2027
-2021/243068,Jane Smith,jane.smith@unn.edu.ng,0802345689,CSE,300,2027
-2022/111001,Michael Brown,michael.brownunn.edu.ng,08034567890,ELE,200,2028
-2023/222015,Aisha Bello,aisha.bello@unn.edu.ng,08045678901,MECH,100,2029
-2021/243067,John Doe,john.doe@unn.edu.ng,08012345678,CSE,300,2027
+2020/198765,David Okeke,david.okeke@unn.edu.ng,08056781234,CHE,400,2026
+2020/198766,Grace Nwosu,grace.nwosu@unn.edu.ng,+2348056781235,CHE,400,2026
+2021/301122,Samuel Eze,samuel.eze@unn.edu.ng,2348067891234,CIV,300,2027
+2022/450019,Chioma Umeh,chioma.umeh@unn.edu.ng,08078912345,EEE,200,2028
+2023/550201,Emeka Obi,emeka.obi@unn.edu.ng,8078912346,MEC,100,2029
+2019/110045,Rachel Musa,rachel.musa@unn.edu.ng,08089123456,BIO,500,2025
+2021/332210,Kelvin Ade,kelvin.ade@unn.edu.ng,08091234567,CSC,300,2027
+2022/441908,Zainab Ali,zainab.aliunn.edu.ng,08102345678,ACC,200,2028
+2023/778811,Victor James,victor.james@unn.edu.ng,0701234567,LAW,100,2029
+2020/909100,Ngozi Emeh,ngozi.emeh@unn.edu.ng,+23481345678901,MED,400,2026
